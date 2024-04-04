@@ -1,0 +1,2 @@
+IDC_KEYWORD2_UNDERLINE_CHECK);
+return True
